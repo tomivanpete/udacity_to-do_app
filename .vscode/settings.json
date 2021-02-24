@@ -1,4 +1,0 @@
-{
-    "python.pythonPath": "/usr/local/opt/python/libexec/bin/python",
-    "python.linting.pylintArgs": ["--load-plugins", "pylint-flask", "pylint_flask_sqlalchemy"]
-}
